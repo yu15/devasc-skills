@@ -2,3 +2,4 @@ R1 10.0.0.1 router
 R2 10.0.0.2 router
 SW1 10.0.0.3 switch
 FW1 10.0.0.4 firewall
+SW2 10.0.0.5 switch
